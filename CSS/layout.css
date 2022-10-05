@@ -1,0 +1,23 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width:100%;
+    margin: 0 auto;
+    background-image:linear-gradient(to left, #dde7eb, rgb(150, 168, 206));
+}
+header{
+    background-color: #216200;
+    
+}
+.logo img{
+    width:10%;
+    padding-top:10px;
+    padding-bottom: 10px;
+    
+}
+.navi a{
+    background-color:#216200;
+    font-size: large;
+    color: azure;
+    float:right;
+
+}
